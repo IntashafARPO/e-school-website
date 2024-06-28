@@ -1,0 +1,218 @@
+body{
+    font-family: 'Poppins'!important;
+}
+.container{
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.navbar img{
+    height: 60px;
+    width: 195px;
+}
+.nav-end{
+    justify-content: flex-end;
+}
+.green-bg-container{
+    background-color: rgb(235, 255, 233);
+}
+.sign-in-button{
+    border: none;
+    background-color: #21B573;
+    ;
+    border-radius: 40px;
+    color: white !important;
+}
+.sign-in-button:hover{
+    border: none;
+    background-color: #21B573;
+    border-radius: 40px;
+    color: white !important;
+}
+.learn-div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.red-text{
+    color: red;
+}
+.learn-text{
+    font-size: 60px;
+    font-weight: 800;
+}
+.green-text{
+    color: #21B573;
+}
+.started-button{
+    border: none;
+    background-color: #21B573;
+    border-radius: 30px;
+    padding: 10px 30px;
+    color: white;
+}
+.nav-image{
+    width: 700px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-container img{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    height: 270px;
+    width: 270px;
+    border: none !important; 
+    background-color: rgb(243, 255, 249) !important; 
+}
+.cards img{
+    height: 140px;
+    width: 130px;
+}
+.cards-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.col-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cards:hover{
+    background-color: white !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cardz{
+    height: 300px;
+    width: 420px;
+    border-radius: 18px !important;
+    padding-top: 20px;
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-bottom: 20px;
+}
+.cardz:hover{
+    height: 300px;
+    width: 420px;
+    border-radius: 18px !important;
+    padding-top: 20px;
+    border: none !important;
+    box-shadow: none !important;
+    padding-bottom: 20px;
+}
+.course-card-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+.buy-button{
+    height: 35px;
+    width: 137px;
+    border: none;
+    border-radius: 33px;
+    background-color: #21B573;
+    padding: 8px, 28px, 8px, 28px;
+    color: white;
+}
+.course-container img{
+    width: 331px;
+    height: 234px;
+    gap: 0px;
+    border-radius: 11px 0px 0px 0px;
+    opacity: 0px;
+}
+.calender-people-2{
+    display: flex;
+}
+.calender-people img{
+    width: 24px;
+    height: 24px;
+    padding: 3px 2px 3px 2px;
+    gap: 0px;
+    opacity: 0px;
+}
+.course-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-body-2{
+    padding-left: 45px !important;
+}
+.online-line{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 54px;
+    text-align: left;
+
+}
+.testimonial-img{
+    width: 120px;
+    height: 120px;
+}
+.testimonial-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.testimonial-text-area{
+    padding-right: 120px !important;
+
+}
+.testimonial-img-area{
+    padding-left: 250px !important;
+}
+.testimonial-line{
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    line-height: 54px;
+    text-align: left;
+}
+.footer-area{
+    background-color: #282531;
+    height: 369px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+}
+.footer-line-area{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-text-bold{
+    font-weight: 700;
+    font-size: 18px;
+}
+.footer-text{
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 16px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+.row-footer{
+    margin-top: 15px !important;
+    font-weight: 400;
+}
